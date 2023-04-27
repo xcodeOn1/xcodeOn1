@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm xcode0x</h1>
 <h3 align="center">Web & Mobile PT | RED TEAMER | Programmer</h3>
 
-![Drag Racing](https://avatars.githubusercontent.com/u/65957444?s=400&u=e9c52535dfe97f05d3aff7a71784f76a67eb0900&v=4)
+
 
 - 📫 How to reach me **xcodextest@gmail.com**
 
