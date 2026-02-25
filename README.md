@@ -39,10 +39,5 @@ HoF: IBM | WHO
 ## ⚙️ Red Team Arsenal
 
 ```bash
-Languages      : Python | Bash | PowerShell | C
-Infrastructure : Active Directory | Azure AD
-Web           : BurpSuite | OWASP ZAP
-Network       : Nmap | Wireshark | Metasploit
-AD Attacks    : BloodHound | Mimikatz | Rubeus | Impacket
-C2 Frameworks : Sliver | Cobalt Strike | Mythic
-Cloud         : Azure | AWS
+Languages      : Python | c++ | c
+```
